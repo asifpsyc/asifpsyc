@@ -21,7 +21,7 @@ content strategy, organic growth, and SEO automation.
 
 ## Tools
 
-Google Search Console · GA4 · Screaming Frog · Ahrefs · Semrush
+Google Search Console · GA4 · Screaming Frog · Ahrefs · Semrush · 
 Looker Studio · Excel/Google Sheets · SQL · Python · GitHub
 
 ## Connect
