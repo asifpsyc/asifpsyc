@@ -1,16 +1,31 @@
-## Hi there 👋
+# Shah Asif Abdullah
 
-<!--
-**asifpsyc/asifpsyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SEO Manager based in Dhaka, Bangladesh, focused on technical SEO,
+content strategy, organic growth, and SEO automation.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Technical SEO audits and prioritization
+- Keyword research and search-intent mapping
+- Content briefs and topical-cluster planning
+- Internal linking and information architecture
+- SEO reporting and performance analysis
+- Search Console and GA4 analysis
+
+## Selected work
+
+- [Technical SEO Audit Framework]
+- [Keyword Research Framework]
+- [SEO Reporting Dashboard]
+- [SEO Case Studies]
+
+## Tools
+
+Google Search Console · GA4 · Screaming Frog · Ahrefs · Semrush
+Looker Studio · Excel/Google Sheets · SQL · Python · GitHub
+
+## Connect
+
+- LinkedIn: (https://www.linkedin.com/in/shahasifabdullah/)
+- Portfolio: (https://shahasifabdullah.my.canva.site/)
+- Email: (asifpsyc@gmail.com)
